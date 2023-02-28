@@ -1,0 +1,25 @@
+.navbar-brand{
+    
+        text-shadow: #000 1px 1px;
+        line-height: 27px;
+        border-width: 0;
+        padding: 0;
+        letter-spacing: 0;
+        font-size: 27px;
+        display: block;
+
+}
+.navbar-nav{
+    text-shadow: #000 1px 1px;
+        line-height: 27px;
+        border-width: 0;
+        padding: 0;
+        letter-spacing: 0;
+        font-size: 20px;
+        display:flex;
+
+}
+.carousel-inner , .carousel-item , .carousel-item>img {
+        height: 400px;
+     
+    }
